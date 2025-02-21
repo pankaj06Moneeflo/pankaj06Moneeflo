@@ -7,9 +7,6 @@ I'm Akas, a self-motivated tech enthusiast and full stack web developer.
 <h4 align="center">
 💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/pankaj06Moneeflo/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akasrai_">@pankaj</a>
 </h4>
-<p  align="center">
-<a href="https://akasrai.github.io/">https://pankaj06Moneeflo.github.io</a>
-</p>
 
 <br/>
 <h3 align="center">
