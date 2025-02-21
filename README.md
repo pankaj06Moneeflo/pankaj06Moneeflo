@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @pankaj06Moneeflo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h3 align="center"> Hi there 👋</h3>
 
-<!---
-pankaj06Moneeflo/pankaj06Moneeflo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+I'm Akas, a self-motivated tech enthusiast and full stack web developer.
+</p>
+
+<h4 align="center">
+💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/pankaj06Moneeflo/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akasrai_">@pankaj</a>
+</h4>
+<p  align="center">
+<a href="https://akasrai.github.io/">https://pankaj06Moneeflo.github.io</a>
+</p>
+
+<br/>
+<h3 align="center">
+My Tech Stacks
+</h3>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/pankaj06Moneeflo/pankaj06Moneeflo/master/assets/stack-hills.png" alt="stacks"/>
+</h3>
