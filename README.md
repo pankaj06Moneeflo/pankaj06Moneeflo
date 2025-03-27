@@ -5,7 +5,7 @@ I'm Akas, a self-motivated tech enthusiast and full stack web developer.
 </p>
 
 <h4 align="center">
-💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/pankaj06Moneeflo/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akasrai_">@pankaj</a>
+💻 full stack developer <a href="https://github.com/pankaj06Moneeflo">@pankaj06Moneeflo</a> | 🌱 building <a href="https://github.com/pankaj06Moneeflo/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akasrai_">@pankaj</a>
 </h4>
 
 <br/>
